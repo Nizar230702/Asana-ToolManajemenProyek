@@ -1,12 +1,12 @@
 # Asana-ToolManajemenProyek
-> Ilham Ainur Idhana (19081010199)
+> Nizar Abdurrahman (19081010025)
 
 ## Tentang Asana
-   Asana merupakan sebuah perangkat lunak kolaboratif yang dirancang untuk membantu tim dalam mengatur dan mengelola proyek, tugas, dan pekerjaan sehari-hari. Asana memungkinkan anggota tim untuk membuat daftar tugas, mengatur jadwal, mengoordinasikan tanggung jawab, dan berkomunikasi secara efisien.
+  Asana adalah sebuah aplikasi manajemen tugas dan proyek yang membantu individu dan tim dalam mengatur, mengelola, dan melacak proyek dan tugas secara efisien. Asana dirancang untuk membantu tim bekerja secara terkoordinasi, mengurangi kebingungan, dan meningkatkan produktivitas.
 
-   Dalam platform Asana, pengguna dapat membuat proyek dan tugas yang terkait, menetapkan tenggat waktu, mengatur prioritas, dan menetapkan tanggung jawab kepada anggota tim. Tim dapat melihat tugas-tugas yang harus dilakukan, mengirimkan pembaruan, melampirkan file, dan berkolaborasi dalam satu tempat. Asana juga menyediakan fitur-fitur seperti pengingat, pemantauan progres, dan pelaporan untuk membantu tim dalam memantau kemajuan proyek.
+Dalam Asana, pengguna dapat membuat proyek dan tugas yang terkait. Mereka dapat memberikan deskripsi, tenggat waktu, dan menetapkan tanggung jawab kepada anggota tim yang terlibat. Setiap tugas dapat ditandai sebagai selesai ketika selesai dikerjakan.
 
-   Asana dapat digunakan oleh berbagai jenis tim, mulai dari tim kecil hingga tim yang lebih besar, dan cocok untuk berbagai jenis proyek, seperti pengembangan perangkat lunak, pemasaran, manajemen acara, penelitian, dan lain-lain. Platform ini dapat diakses melalui web atau melalui aplikasi seluler, sehingga memudahkan pengguna untuk mengakses dan berkolaborasi di mana saja dan kapan saja.
+Asana menyediakan tampilan papan yang intuitif, dengan daftar tugas yang dapat diatur berdasarkan tenggat waktu, prioritas, atau kategori lainnya. Ini memungkinkan pengguna untuk melihat status proyek secara keseluruhan dan mengetahui tugas mana yang harus dikerjakan selanjutnya.
 
 ## Fitur-Fitur Asana
    Asana memiliki sejumlah fitur yang dirancang untuk membantu tim dalam mengelola proyek dan tugas dengan lebih efisien. Berikut ini adalah beberapa fitur utama yang disediakan oleh Asana:
